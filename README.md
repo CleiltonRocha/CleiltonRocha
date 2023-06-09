@@ -2,7 +2,7 @@
 
 - 🔭 Front-end Developer and UI Designer at ETS Assessoria e Informática
 - 📚 Graduating - **Information Systems** at Faculdade Tecnológica Lourenço Filho - FLF (Jul 2024).</li>
-- 🌱 Learning **React, React-native, TypeScript**
+- 🌱 Learning **React, React-native, TypeScript, NextJS, NodeJS**
 
 
 ##
