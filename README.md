@@ -9,10 +9,8 @@
 
 ### Stats:
 
-<div style="display: inline;">
-  <img width='344em' src="https://github-readme-stats.vercel.app/api?username=CleiltonRocha&show_icons=true&theme=tokyonight" />
-  <img width='308em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiltonRocha&layout=compact&langs_count=10&theme=tokyonight" />
-</div>
+<img width='344em' src="https://github-readme-stats.vercel.app/api?username=CleiltonRocha&show_icons=true&theme=tokyonight" />
+<img width='308em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiltonRocha&layout=compact&langs_count=10&theme=tokyonight" />
 
 ##
 
