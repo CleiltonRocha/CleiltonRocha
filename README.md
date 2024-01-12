@@ -1,4 +1,4 @@
-## Welcome! My name is Cleilton Rocha 👋
+## 👋 Hey there! I'm Cleilton Rocha, a Front-end Developer passionate about creating experiences.
 
 - 🔭 Front-end Developer and UI Designer at ETS Assessoria e Informática
 - 📚 Graduating - **Information Systems** at Faculdade Tecnológica Lourenço Filho - FLF (Jul 2024).</li>
